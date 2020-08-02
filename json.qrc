@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pic/timg.jpg</file>
+        <file>qss/mystyle.qss</file>
+        <file>pic/market.png</file>
+        <file>pic/market-1.png</file>
+        <file>pic/school.png</file>
+    </qresource>
+</RCC>
